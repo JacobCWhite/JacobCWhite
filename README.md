@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob Christopher White</h1>
-<h3 align="center">I am a mixed-methods computational social scientist (i.e. Anthropology Ph.D who loves to code and conducting ethnography)</h3>
+<h3 align="center">I am a mixed-methods computational social scientist (i.e. Anthropology Ph.D who loves coding and ethnography equally)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jacobcwhite&label=Profile%20views&color=0e75b6&style=flat" alt="jacobcwhite" /> </p>
 
