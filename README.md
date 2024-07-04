@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JacobCWhite](https://github.com/JacobCWhite)
 
-- 💬 Ask me about **Thematic analysis**
-
 - 📫 How to reach me **jacobcwhite@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jacob-white-ph-d-933a46257/](https://www.linkedin.com/in/jacob-white-ph-d-933a46257/)
